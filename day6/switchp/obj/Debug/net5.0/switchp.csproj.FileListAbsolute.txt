@@ -1,0 +1,16 @@
+C:\TaazaaTrainingAssignment\day6\switchp\bin\Debug\net5.0\switchp.exe
+C:\TaazaaTrainingAssignment\day6\switchp\bin\Debug\net5.0\switchp.deps.json
+C:\TaazaaTrainingAssignment\day6\switchp\bin\Debug\net5.0\switchp.runtimeconfig.json
+C:\TaazaaTrainingAssignment\day6\switchp\bin\Debug\net5.0\switchp.runtimeconfig.dev.json
+C:\TaazaaTrainingAssignment\day6\switchp\bin\Debug\net5.0\switchp.dll
+C:\TaazaaTrainingAssignment\day6\switchp\bin\Debug\net5.0\ref\switchp.dll
+C:\TaazaaTrainingAssignment\day6\switchp\bin\Debug\net5.0\switchp.pdb
+C:\TaazaaTrainingAssignment\day6\switchp\obj\Debug\net5.0\switchp.csproj.AssemblyReference.cache
+C:\TaazaaTrainingAssignment\day6\switchp\obj\Debug\net5.0\switchp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTrainingAssignment\day6\switchp\obj\Debug\net5.0\switchp.AssemblyInfoInputs.cache
+C:\TaazaaTrainingAssignment\day6\switchp\obj\Debug\net5.0\switchp.AssemblyInfo.cs
+C:\TaazaaTrainingAssignment\day6\switchp\obj\Debug\net5.0\switchp.csproj.CoreCompileInputs.cache
+C:\TaazaaTrainingAssignment\day6\switchp\obj\Debug\net5.0\switchp.dll
+C:\TaazaaTrainingAssignment\day6\switchp\obj\Debug\net5.0\ref\switchp.dll
+C:\TaazaaTrainingAssignment\day6\switchp\obj\Debug\net5.0\switchp.pdb
+C:\TaazaaTrainingAssignment\day6\switchp\obj\Debug\net5.0\switchp.genruntimeconfig.cache

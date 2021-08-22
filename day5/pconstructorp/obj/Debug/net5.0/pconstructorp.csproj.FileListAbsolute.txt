@@ -1,0 +1,16 @@
+C:\TaazaaTrainingAssignment\day5\pconstructorp\bin\Debug\net5.0\pconstructorp.exe
+C:\TaazaaTrainingAssignment\day5\pconstructorp\bin\Debug\net5.0\pconstructorp.deps.json
+C:\TaazaaTrainingAssignment\day5\pconstructorp\bin\Debug\net5.0\pconstructorp.runtimeconfig.json
+C:\TaazaaTrainingAssignment\day5\pconstructorp\bin\Debug\net5.0\pconstructorp.runtimeconfig.dev.json
+C:\TaazaaTrainingAssignment\day5\pconstructorp\bin\Debug\net5.0\pconstructorp.dll
+C:\TaazaaTrainingAssignment\day5\pconstructorp\bin\Debug\net5.0\ref\pconstructorp.dll
+C:\TaazaaTrainingAssignment\day5\pconstructorp\bin\Debug\net5.0\pconstructorp.pdb
+C:\TaazaaTrainingAssignment\day5\pconstructorp\obj\Debug\net5.0\pconstructorp.csproj.AssemblyReference.cache
+C:\TaazaaTrainingAssignment\day5\pconstructorp\obj\Debug\net5.0\pconstructorp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTrainingAssignment\day5\pconstructorp\obj\Debug\net5.0\pconstructorp.AssemblyInfoInputs.cache
+C:\TaazaaTrainingAssignment\day5\pconstructorp\obj\Debug\net5.0\pconstructorp.AssemblyInfo.cs
+C:\TaazaaTrainingAssignment\day5\pconstructorp\obj\Debug\net5.0\pconstructorp.csproj.CoreCompileInputs.cache
+C:\TaazaaTrainingAssignment\day5\pconstructorp\obj\Debug\net5.0\pconstructorp.dll
+C:\TaazaaTrainingAssignment\day5\pconstructorp\obj\Debug\net5.0\ref\pconstructorp.dll
+C:\TaazaaTrainingAssignment\day5\pconstructorp\obj\Debug\net5.0\pconstructorp.pdb
+C:\TaazaaTrainingAssignment\day5\pconstructorp\obj\Debug\net5.0\pconstructorp.genruntimeconfig.cache

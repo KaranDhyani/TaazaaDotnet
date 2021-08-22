@@ -1,0 +1,16 @@
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\bin\Debug\net5.0\switchgenericsp.exe
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\bin\Debug\net5.0\switchgenericsp.deps.json
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\bin\Debug\net5.0\switchgenericsp.runtimeconfig.json
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\bin\Debug\net5.0\switchgenericsp.runtimeconfig.dev.json
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\bin\Debug\net5.0\switchgenericsp.dll
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\bin\Debug\net5.0\ref\switchgenericsp.dll
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\bin\Debug\net5.0\switchgenericsp.pdb
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\obj\Debug\net5.0\switchgenericsp.csproj.AssemblyReference.cache
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\obj\Debug\net5.0\switchgenericsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\obj\Debug\net5.0\switchgenericsp.AssemblyInfoInputs.cache
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\obj\Debug\net5.0\switchgenericsp.AssemblyInfo.cs
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\obj\Debug\net5.0\switchgenericsp.csproj.CoreCompileInputs.cache
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\obj\Debug\net5.0\switchgenericsp.dll
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\obj\Debug\net5.0\ref\switchgenericsp.dll
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\obj\Debug\net5.0\switchgenericsp.pdb
+C:\TaazaaTrainingAssignment\day6\switchgenericsp\obj\Debug\net5.0\switchgenericsp.genruntimeconfig.cache

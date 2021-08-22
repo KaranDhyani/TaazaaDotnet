@@ -1,0 +1,16 @@
+C:\TaazaaTrainingAssignment\day5\hashtablep\bin\Debug\net5.0\hashtablep.exe
+C:\TaazaaTrainingAssignment\day5\hashtablep\bin\Debug\net5.0\hashtablep.deps.json
+C:\TaazaaTrainingAssignment\day5\hashtablep\bin\Debug\net5.0\hashtablep.runtimeconfig.json
+C:\TaazaaTrainingAssignment\day5\hashtablep\bin\Debug\net5.0\hashtablep.runtimeconfig.dev.json
+C:\TaazaaTrainingAssignment\day5\hashtablep\bin\Debug\net5.0\hashtablep.dll
+C:\TaazaaTrainingAssignment\day5\hashtablep\bin\Debug\net5.0\ref\hashtablep.dll
+C:\TaazaaTrainingAssignment\day5\hashtablep\bin\Debug\net5.0\hashtablep.pdb
+C:\TaazaaTrainingAssignment\day5\hashtablep\obj\Debug\net5.0\hashtablep.csproj.AssemblyReference.cache
+C:\TaazaaTrainingAssignment\day5\hashtablep\obj\Debug\net5.0\hashtablep.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTrainingAssignment\day5\hashtablep\obj\Debug\net5.0\hashtablep.AssemblyInfoInputs.cache
+C:\TaazaaTrainingAssignment\day5\hashtablep\obj\Debug\net5.0\hashtablep.AssemblyInfo.cs
+C:\TaazaaTrainingAssignment\day5\hashtablep\obj\Debug\net5.0\hashtablep.csproj.CoreCompileInputs.cache
+C:\TaazaaTrainingAssignment\day5\hashtablep\obj\Debug\net5.0\hashtablep.dll
+C:\TaazaaTrainingAssignment\day5\hashtablep\obj\Debug\net5.0\ref\hashtablep.dll
+C:\TaazaaTrainingAssignment\day5\hashtablep\obj\Debug\net5.0\hashtablep.pdb
+C:\TaazaaTrainingAssignment\day5\hashtablep\obj\Debug\net5.0\hashtablep.genruntimeconfig.cache
