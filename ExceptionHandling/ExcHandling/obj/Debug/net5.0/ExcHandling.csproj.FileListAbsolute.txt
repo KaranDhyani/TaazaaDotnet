@@ -1,0 +1,16 @@
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\bin\Debug\net5.0\ExcHandling.exe
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\bin\Debug\net5.0\ExcHandling.deps.json
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\bin\Debug\net5.0\ExcHandling.runtimeconfig.json
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\bin\Debug\net5.0\ExcHandling.runtimeconfig.dev.json
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\bin\Debug\net5.0\ExcHandling.dll
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\bin\Debug\net5.0\ref\ExcHandling.dll
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\bin\Debug\net5.0\ExcHandling.pdb
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\obj\Debug\net5.0\ExcHandling.csproj.AssemblyReference.cache
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\obj\Debug\net5.0\ExcHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\obj\Debug\net5.0\ExcHandling.AssemblyInfoInputs.cache
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\obj\Debug\net5.0\ExcHandling.AssemblyInfo.cs
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\obj\Debug\net5.0\ExcHandling.csproj.CoreCompileInputs.cache
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\obj\Debug\net5.0\ExcHandling.dll
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\obj\Debug\net5.0\ref\ExcHandling.dll
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\obj\Debug\net5.0\ExcHandling.pdb
+D:\TaazaaTrainingAssignment\ExceptionHandling\ExcHandling\obj\Debug\net5.0\ExcHandling.genruntimeconfig.cache

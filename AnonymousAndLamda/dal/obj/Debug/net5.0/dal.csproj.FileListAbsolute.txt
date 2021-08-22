@@ -1,0 +1,16 @@
+D:\TaazaaTrainingAssignment\daySaturday\dal\bin\Debug\net5.0\dal.exe
+D:\TaazaaTrainingAssignment\daySaturday\dal\bin\Debug\net5.0\dal.deps.json
+D:\TaazaaTrainingAssignment\daySaturday\dal\bin\Debug\net5.0\dal.runtimeconfig.json
+D:\TaazaaTrainingAssignment\daySaturday\dal\bin\Debug\net5.0\dal.runtimeconfig.dev.json
+D:\TaazaaTrainingAssignment\daySaturday\dal\bin\Debug\net5.0\dal.dll
+D:\TaazaaTrainingAssignment\daySaturday\dal\bin\Debug\net5.0\ref\dal.dll
+D:\TaazaaTrainingAssignment\daySaturday\dal\bin\Debug\net5.0\dal.pdb
+D:\TaazaaTrainingAssignment\daySaturday\dal\obj\Debug\net5.0\dal.csproj.AssemblyReference.cache
+D:\TaazaaTrainingAssignment\daySaturday\dal\obj\Debug\net5.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTrainingAssignment\daySaturday\dal\obj\Debug\net5.0\dal.AssemblyInfoInputs.cache
+D:\TaazaaTrainingAssignment\daySaturday\dal\obj\Debug\net5.0\dal.AssemblyInfo.cs
+D:\TaazaaTrainingAssignment\daySaturday\dal\obj\Debug\net5.0\dal.csproj.CoreCompileInputs.cache
+D:\TaazaaTrainingAssignment\daySaturday\dal\obj\Debug\net5.0\dal.dll
+D:\TaazaaTrainingAssignment\daySaturday\dal\obj\Debug\net5.0\ref\dal.dll
+D:\TaazaaTrainingAssignment\daySaturday\dal\obj\Debug\net5.0\dal.pdb
+D:\TaazaaTrainingAssignment\daySaturday\dal\obj\Debug\net5.0\dal.genruntimeconfig.cache

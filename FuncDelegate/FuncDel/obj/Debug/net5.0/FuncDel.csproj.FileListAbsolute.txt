@@ -1,0 +1,16 @@
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\bin\Debug\net5.0\FuncDel.exe
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\bin\Debug\net5.0\FuncDel.deps.json
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\bin\Debug\net5.0\FuncDel.runtimeconfig.json
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\bin\Debug\net5.0\FuncDel.runtimeconfig.dev.json
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\bin\Debug\net5.0\FuncDel.dll
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\bin\Debug\net5.0\ref\FuncDel.dll
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\bin\Debug\net5.0\FuncDel.pdb
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\obj\Debug\net5.0\FuncDel.csproj.AssemblyReference.cache
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\obj\Debug\net5.0\FuncDel.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\obj\Debug\net5.0\FuncDel.AssemblyInfoInputs.cache
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\obj\Debug\net5.0\FuncDel.AssemblyInfo.cs
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\obj\Debug\net5.0\FuncDel.csproj.CoreCompileInputs.cache
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\obj\Debug\net5.0\FuncDel.dll
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\obj\Debug\net5.0\ref\FuncDel.dll
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\obj\Debug\net5.0\FuncDel.pdb
+D:\TaazaaTrainingAssignment\FuncDelegate\FuncDel\obj\Debug\net5.0\FuncDel.genruntimeconfig.cache

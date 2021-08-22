@@ -1,0 +1,16 @@
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\bin\Debug\net5.0\PreDel.exe
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\bin\Debug\net5.0\PreDel.deps.json
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\bin\Debug\net5.0\PreDel.runtimeconfig.json
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\bin\Debug\net5.0\PreDel.runtimeconfig.dev.json
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\bin\Debug\net5.0\PreDel.dll
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\bin\Debug\net5.0\ref\PreDel.dll
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\bin\Debug\net5.0\PreDel.pdb
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\obj\Debug\net5.0\PreDel.csproj.AssemblyReference.cache
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\obj\Debug\net5.0\PreDel.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\obj\Debug\net5.0\PreDel.AssemblyInfoInputs.cache
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\obj\Debug\net5.0\PreDel.AssemblyInfo.cs
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\obj\Debug\net5.0\PreDel.csproj.CoreCompileInputs.cache
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\obj\Debug\net5.0\PreDel.dll
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\obj\Debug\net5.0\ref\PreDel.dll
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\obj\Debug\net5.0\PreDel.pdb
+D:\TaazaaTrainingAssignment\PredicateDeligate\PreDel\obj\Debug\net5.0\PreDel.genruntimeconfig.cache

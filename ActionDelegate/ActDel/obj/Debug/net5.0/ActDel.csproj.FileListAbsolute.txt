@@ -1,0 +1,16 @@
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\bin\Debug\net5.0\ActDel.exe
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\bin\Debug\net5.0\ActDel.deps.json
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\bin\Debug\net5.0\ActDel.runtimeconfig.json
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\bin\Debug\net5.0\ActDel.runtimeconfig.dev.json
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\bin\Debug\net5.0\ActDel.dll
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\bin\Debug\net5.0\ref\ActDel.dll
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\bin\Debug\net5.0\ActDel.pdb
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\obj\Debug\net5.0\ActDel.csproj.AssemblyReference.cache
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\obj\Debug\net5.0\ActDel.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\obj\Debug\net5.0\ActDel.AssemblyInfoInputs.cache
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\obj\Debug\net5.0\ActDel.AssemblyInfo.cs
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\obj\Debug\net5.0\ActDel.csproj.CoreCompileInputs.cache
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\obj\Debug\net5.0\ActDel.dll
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\obj\Debug\net5.0\ref\ActDel.dll
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\obj\Debug\net5.0\ActDel.pdb
+D:\TaazaaTrainingAssignment\ActionDelegate\ActDel\obj\Debug\net5.0\ActDel.genruntimeconfig.cache
