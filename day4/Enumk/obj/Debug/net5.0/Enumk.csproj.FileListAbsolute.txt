@@ -1,0 +1,16 @@
+C:\TaazaaTrainingAssignment\day4\Enumk\obj\Debug\net5.0\Enumk.csproj.AssemblyReference.cache
+C:\TaazaaTrainingAssignment\day4\Enumk\obj\Debug\net5.0\Enumk.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTrainingAssignment\day4\Enumk\obj\Debug\net5.0\Enumk.AssemblyInfoInputs.cache
+C:\TaazaaTrainingAssignment\day4\Enumk\obj\Debug\net5.0\Enumk.AssemblyInfo.cs
+C:\TaazaaTrainingAssignment\day4\Enumk\obj\Debug\net5.0\Enumk.csproj.CoreCompileInputs.cache
+C:\TaazaaTrainingAssignment\day4\Enumk\bin\Debug\net5.0\Enumk.exe
+C:\TaazaaTrainingAssignment\day4\Enumk\bin\Debug\net5.0\Enumk.deps.json
+C:\TaazaaTrainingAssignment\day4\Enumk\bin\Debug\net5.0\Enumk.runtimeconfig.json
+C:\TaazaaTrainingAssignment\day4\Enumk\bin\Debug\net5.0\Enumk.runtimeconfig.dev.json
+C:\TaazaaTrainingAssignment\day4\Enumk\bin\Debug\net5.0\Enumk.dll
+C:\TaazaaTrainingAssignment\day4\Enumk\bin\Debug\net5.0\ref\Enumk.dll
+C:\TaazaaTrainingAssignment\day4\Enumk\bin\Debug\net5.0\Enumk.pdb
+C:\TaazaaTrainingAssignment\day4\Enumk\obj\Debug\net5.0\Enumk.dll
+C:\TaazaaTrainingAssignment\day4\Enumk\obj\Debug\net5.0\ref\Enumk.dll
+C:\TaazaaTrainingAssignment\day4\Enumk\obj\Debug\net5.0\Enumk.pdb
+C:\TaazaaTrainingAssignment\day4\Enumk\obj\Debug\net5.0\Enumk.genruntimeconfig.cache

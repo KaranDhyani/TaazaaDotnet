@@ -1,0 +1,16 @@
+C:\TaazaaTrainingAssignment\day4\AbstractClass\bin\Debug\net5.0\AbstractClass.exe
+C:\TaazaaTrainingAssignment\day4\AbstractClass\bin\Debug\net5.0\AbstractClass.deps.json
+C:\TaazaaTrainingAssignment\day4\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.json
+C:\TaazaaTrainingAssignment\day4\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.dev.json
+C:\TaazaaTrainingAssignment\day4\AbstractClass\bin\Debug\net5.0\AbstractClass.dll
+C:\TaazaaTrainingAssignment\day4\AbstractClass\bin\Debug\net5.0\ref\AbstractClass.dll
+C:\TaazaaTrainingAssignment\day4\AbstractClass\bin\Debug\net5.0\AbstractClass.pdb
+C:\TaazaaTrainingAssignment\day4\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.AssemblyReference.cache
+C:\TaazaaTrainingAssignment\day4\AbstractClass\obj\Debug\net5.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTrainingAssignment\day4\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfoInputs.cache
+C:\TaazaaTrainingAssignment\day4\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfo.cs
+C:\TaazaaTrainingAssignment\day4\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.CoreCompileInputs.cache
+C:\TaazaaTrainingAssignment\day4\AbstractClass\obj\Debug\net5.0\AbstractClass.dll
+C:\TaazaaTrainingAssignment\day4\AbstractClass\obj\Debug\net5.0\ref\AbstractClass.dll
+C:\TaazaaTrainingAssignment\day4\AbstractClass\obj\Debug\net5.0\AbstractClass.pdb
+C:\TaazaaTrainingAssignment\day4\AbstractClass\obj\Debug\net5.0\AbstractClass.genruntimeconfig.cache

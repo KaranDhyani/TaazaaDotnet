@@ -1,0 +1,16 @@
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\bin\Debug\net5.0\InterfaceProgram3.exe
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\bin\Debug\net5.0\InterfaceProgram3.deps.json
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\bin\Debug\net5.0\InterfaceProgram3.runtimeconfig.json
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\bin\Debug\net5.0\InterfaceProgram3.runtimeconfig.dev.json
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\bin\Debug\net5.0\InterfaceProgram3.dll
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\bin\Debug\net5.0\ref\InterfaceProgram3.dll
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\bin\Debug\net5.0\InterfaceProgram3.pdb
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\obj\Debug\net5.0\InterfaceProgram3.csproj.AssemblyReference.cache
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\obj\Debug\net5.0\InterfaceProgram3.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\obj\Debug\net5.0\InterfaceProgram3.AssemblyInfoInputs.cache
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\obj\Debug\net5.0\InterfaceProgram3.AssemblyInfo.cs
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\obj\Debug\net5.0\InterfaceProgram3.csproj.CoreCompileInputs.cache
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\obj\Debug\net5.0\InterfaceProgram3.dll
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\obj\Debug\net5.0\ref\InterfaceProgram3.dll
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\obj\Debug\net5.0\InterfaceProgram3.pdb
+C:\TaazaaTrainingAssignment\day4\InterfaceProgram3\obj\Debug\net5.0\InterfaceProgram3.genruntimeconfig.cache
