@@ -1,0 +1,16 @@
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\bin\Debug\net5.0\ArrProg3.exe
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\bin\Debug\net5.0\ArrProg3.deps.json
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\bin\Debug\net5.0\ArrProg3.runtimeconfig.json
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\bin\Debug\net5.0\ArrProg3.runtimeconfig.dev.json
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\bin\Debug\net5.0\ArrProg3.dll
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\bin\Debug\net5.0\ref\ArrProg3.dll
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\bin\Debug\net5.0\ArrProg3.pdb
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\obj\Debug\net5.0\ArrProg3.csproj.AssemblyReference.cache
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\obj\Debug\net5.0\ArrProg3.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\obj\Debug\net5.0\ArrProg3.AssemblyInfoInputs.cache
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\obj\Debug\net5.0\ArrProg3.AssemblyInfo.cs
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\obj\Debug\net5.0\ArrProg3.csproj.CoreCompileInputs.cache
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\obj\Debug\net5.0\ArrProg3.dll
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\obj\Debug\net5.0\ref\ArrProg3.dll
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\obj\Debug\net5.0\ArrProg3.pdb
+D:\TaazaaTrainingAssignment\day8\ArrayProgram\ArrProg3\obj\Debug\net5.0\ArrProg3.genruntimeconfig.cache
