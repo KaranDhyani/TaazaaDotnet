@@ -1,0 +1,16 @@
+C:\TaazaaTraining\miscellaneous\bin\Debug\net5.0\miscellaneous.exe
+C:\TaazaaTraining\miscellaneous\bin\Debug\net5.0\miscellaneous.deps.json
+C:\TaazaaTraining\miscellaneous\bin\Debug\net5.0\miscellaneous.runtimeconfig.json
+C:\TaazaaTraining\miscellaneous\bin\Debug\net5.0\miscellaneous.runtimeconfig.dev.json
+C:\TaazaaTraining\miscellaneous\bin\Debug\net5.0\miscellaneous.dll
+C:\TaazaaTraining\miscellaneous\bin\Debug\net5.0\ref\miscellaneous.dll
+C:\TaazaaTraining\miscellaneous\bin\Debug\net5.0\miscellaneous.pdb
+C:\TaazaaTraining\miscellaneous\obj\Debug\net5.0\miscellaneous.csproj.AssemblyReference.cache
+C:\TaazaaTraining\miscellaneous\obj\Debug\net5.0\miscellaneous.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\miscellaneous\obj\Debug\net5.0\miscellaneous.AssemblyInfoInputs.cache
+C:\TaazaaTraining\miscellaneous\obj\Debug\net5.0\miscellaneous.AssemblyInfo.cs
+C:\TaazaaTraining\miscellaneous\obj\Debug\net5.0\miscellaneous.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\miscellaneous\obj\Debug\net5.0\miscellaneous.dll
+C:\TaazaaTraining\miscellaneous\obj\Debug\net5.0\ref\miscellaneous.dll
+C:\TaazaaTraining\miscellaneous\obj\Debug\net5.0\miscellaneous.pdb
+C:\TaazaaTraining\miscellaneous\obj\Debug\net5.0\miscellaneous.genruntimeconfig.cache

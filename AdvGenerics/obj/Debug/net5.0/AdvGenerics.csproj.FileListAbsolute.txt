@@ -1,0 +1,16 @@
+C:\TaazaaTraining\AdvGenerics\bin\Debug\net5.0\AdvGenerics.exe
+C:\TaazaaTraining\AdvGenerics\bin\Debug\net5.0\AdvGenerics.deps.json
+C:\TaazaaTraining\AdvGenerics\bin\Debug\net5.0\AdvGenerics.runtimeconfig.json
+C:\TaazaaTraining\AdvGenerics\bin\Debug\net5.0\AdvGenerics.runtimeconfig.dev.json
+C:\TaazaaTraining\AdvGenerics\bin\Debug\net5.0\AdvGenerics.dll
+C:\TaazaaTraining\AdvGenerics\bin\Debug\net5.0\ref\AdvGenerics.dll
+C:\TaazaaTraining\AdvGenerics\bin\Debug\net5.0\AdvGenerics.pdb
+C:\TaazaaTraining\AdvGenerics\obj\Debug\net5.0\AdvGenerics.csproj.AssemblyReference.cache
+C:\TaazaaTraining\AdvGenerics\obj\Debug\net5.0\AdvGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\AdvGenerics\obj\Debug\net5.0\AdvGenerics.AssemblyInfoInputs.cache
+C:\TaazaaTraining\AdvGenerics\obj\Debug\net5.0\AdvGenerics.AssemblyInfo.cs
+C:\TaazaaTraining\AdvGenerics\obj\Debug\net5.0\AdvGenerics.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\AdvGenerics\obj\Debug\net5.0\AdvGenerics.dll
+C:\TaazaaTraining\AdvGenerics\obj\Debug\net5.0\ref\AdvGenerics.dll
+C:\TaazaaTraining\AdvGenerics\obj\Debug\net5.0\AdvGenerics.pdb
+C:\TaazaaTraining\AdvGenerics\obj\Debug\net5.0\AdvGenerics.genruntimeconfig.cache
