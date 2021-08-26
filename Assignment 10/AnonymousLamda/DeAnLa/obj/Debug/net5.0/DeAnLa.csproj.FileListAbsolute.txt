@@ -1,0 +1,16 @@
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\bin\Debug\net5.0\DeAnLa.exe
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\bin\Debug\net5.0\DeAnLa.deps.json
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\bin\Debug\net5.0\DeAnLa.runtimeconfig.json
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\bin\Debug\net5.0\DeAnLa.runtimeconfig.dev.json
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\bin\Debug\net5.0\DeAnLa.dll
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\bin\Debug\net5.0\ref\DeAnLa.dll
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\bin\Debug\net5.0\DeAnLa.pdb
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\obj\Debug\net5.0\DeAnLa.csproj.AssemblyReference.cache
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\obj\Debug\net5.0\DeAnLa.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\obj\Debug\net5.0\DeAnLa.AssemblyInfoInputs.cache
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\obj\Debug\net5.0\DeAnLa.AssemblyInfo.cs
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\obj\Debug\net5.0\DeAnLa.csproj.CoreCompileInputs.cache
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\obj\Debug\net5.0\DeAnLa.dll
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\obj\Debug\net5.0\ref\DeAnLa.dll
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\obj\Debug\net5.0\DeAnLa.pdb
+D:\TaazaaTrainingAssignment\Assignment 10\AnonymousLamda\DeAnLa\obj\Debug\net5.0\DeAnLa.genruntimeconfig.cache

@@ -1,0 +1,143 @@
+25-08-2021(WED) - #Day 10
+
+Date, Array, smallint, time, char, numeric
+After lunch
+Before lunch
+
+1)Update : used to update a selected row with the help of where clause.
+
+UPDATE table_name    
+SET column1 = value1,   
+column2 = value2....,   
+columnN = valueN    
+WHERE   
+condition;  
+
+ 
+2)Delete : used to delete a selected row with the help of where clause.
+
+DELETE FROM department  
+WHERE dept_id = 6;
+
+
+3)Where : used to describe a condition while we get data from a table.
+
+SELECT column1, column2, ..... columnN    
+FROM table_name    
+WHERE [search_condition]    
+ORDER BY sort_expression
+
+
+4)Order by : used to sort rows returned by select condition in ASC or DES.
+SELECT column-list  
+
+FROM table_name    
+[WHERE condition]    
+[ORDER BY column1, column2, .. columnN] [ASC | DESC];
+
+
+5)*Group by : used to collect data across several records and sets the
+result by one or more columns.
+
+SELECT first_name, SUM(SALARY)     
+FROM employee  
+where first_name = 'John'  
+GROUP BY first_name ;  
+
+
+6)*Having :  used to specify a search condition for group or an aggregate.
+SELECT emp_id, first_name, SUM (salary). Use it with group by. 
+
+FROM employee  
+GROUP BY first_name, emp_id  
+HAVING SUM (salary) > 25000  
+order by first_name DESC; 
+
+
+7)Distinct : used to delete the matching rows or data from a table and 
+get only the unique records.(Will only return unique rows)
+
+Select Distinct column1  
+FROM table_name; 
+
+
+8)Limit : used to get a subset of rows produced by a command.
+SELECT select_list   
+
+FROM table_name  
+ORDER BY sort_expression  
+LIMIT row_count
+
+
+9)Fetch : used to repond a portion of rows returned by a particular
+statement.
+
+SELECT car_id, car_name  
+FROM Car  
+ORDER BY car_name   
+FETCH first 6 ROW ONLY; 
+
+
+10)*In :  used with WHERE clause to fetch data from a table where defined 
+condition satisfies the IN condition.
+
+SELECT *  
+FROM employee  
+WHERE emp_fname IN ('John', 'Ava'); 
+______________________________________ 
+
+SELECT *
+FROM employee
+WHERE emp_fname = 'John' OR emp_fname = 'Ava';
+
+
+
+11)*Like : used to perform pattern matching for identifying the exact
+outcome.
+
+SELECT emp_fname, emp_lname  
+FROM employee  
+WHERE emp_fname LIKE 'Kat%';
+
+
+12)And : used to specify the data if all the conditions separated 
+by AND are TRUE.
+
+INSERT INTO employee  
+(phone, address)  
+SELECT phone, address  
+FROM department  
+WHERE dept_id < 5  
+AND department_name = 'SALES'; 
+ 
+
+13)Or : used to return the data if any of the conditions divided 
+by OR is TRUE.
+
+SELECT emp_id, emp_fname, emp_lname, location  
+FROM employee  
+WHERE location = 'New York'   
+OR emp_id > 8;  
+
+
+13)Between : used to match a value against a range of values.
+
+SELECT cust_id, cust_name, Cust_age  
+FROM customer  
+WHERE cust_age BETWEEN 23 AND 26  
+ORDER BY cust_age DESC;
+
+
+14)Exist : used to check for the presence of any data in a subquery, 
+and returns true if the subquery returns several records.
+
+SELECT client_name, client_profession,   
+client_qualification, Client_salary  
+FROM Client c  
+WHERE EXISTS  
+    (SELECT 1  
+     FROM Client_details cd  
+     WHERE cd.client_id = c.client_id  
+     AND client_salary > 30000 )  
+ORDER BY client_name, client_profession; 
+
