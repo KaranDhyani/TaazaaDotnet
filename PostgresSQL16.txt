@@ -1,0 +1,130 @@
+Day16 :
+
+CREATE TABLE Employees  
+(  
+    Id serial,  
+    Name VARCHAR(100),  
+    DateOfBirth Date,  
+    City VARCHAR(100),  
+    Designation VARCHAR(100),  
+    JoiningDate Date  
+);
+
+
+CREATE PROCEDURE addEmployee
+(
+EmpId INOUT INT,  
+    EmpName VARCHAR(100),  
+    EmpDob DATE,  
+    EmpCity VARCHAR(100),  
+    EmpDesignation VARCHAR(100),  
+    EmpJoiningDate DATE
+)
+
+*INOUT
+ 
+INOUT represent both input and output type parameter, these types of parameters can be used to pass 
+the value as well as return the value from a function or procedure.
+
+____________________________________________________________________________________________________________
+
+create procedure addemployee
+(
+ EmpId INOUT INT,
+     EmpName VARCHAR(100),
+ EmpDob DATE,
+EmpCity VARCHAR(100),
+EmpDesignation VARCHAR(100),
+ EmpJoiningDate DATE
+)
+LANGUAGE plpgsql AS
+$$
+BEGIN
+INSERT INTO Employees (Name,DateOfBirth,City,Designation,JoiningDate) VALUES
+ (EmpName,
+EmpDob,
+EmpCity,
+EmpDesignation,
+EmpJoiningDate
+ ) RETURNING Id INTO EmpId;
+End
+$$
+
+____________________________________________________________________________________________________________
+
+CREATE OR REPLACE PROCEDURE UpdateEmployee  
+(  
+    EmpId INT,  
+    EmpName VARCHAR(100),  
+    EmpDob DATE,  
+    EmpCity VARCHAR(100),  
+    EmpDesignation VARCHAR(100),  
+    EmpJoiningDate DATE  
+)  
+LANGUAGE plpgsql AS  
+$$  
+BEGIN         
+   UPDATE Employees SET   
+   Name = EmpName,  
+   DateOfBirth = EmpDob,  
+   City = EmpCity,  
+   Designation = EmpDesignation,  
+   JoiningDate = EmpJoiningDate  
+   Where Id = EmpId;  
+END  
+$$;
+
+______________________________________________________________________________________________________________
+
+CALL addEmployee(1,'Peter S Parker','1999-10-01','New York' ,'Web Developer','2020-11-01');
+
+CALL UpdateEmployee(1,'Peter S Parker','1999-10-01','New York' ,'Web Developer','2020-11-01');
+
+
+CREATE OR REPLACE PROCEDURE DeleteEmployee  
+(  
+    EmpId INT  
+)  
+LANGUAGE plpgsql AS  
+$$  
+BEGIN  
+    DELETE FROM Employees WHERE Id = EmpId;  
+END  
+$$;
+
+Call DeleteEmployee(1);
+
+___________________________________________________________________________________________________________________
+
+CREATE PROCEDURE SearchEmp(INOUT name1 VARCHAR DEFAULT null)
+  LANGUAGE plpgsql AS
+$proc$
+BEGIN
+   SELECT name FROM Employees WHERE id = 1
+   INTO name1;                              
+END
+$proc$;
+
+____________________________________________________________________________________________________________________
+
+CREATE PROCEDURE SearchEmp1(i integer, INOUT name1 VARCHAR DEFAULT null)
+  LANGUAGE plpgsql AS
+$proc$
+BEGIN
+   SELECT name FROM Employees WHERE id = i
+   INTO name1;                              
+END
+$proc$;
+
+
+CREATE PROCEDURE SearchEmp3(i integer, INOUT name1 VARCHAR DEFAULT null, INOUT city1 VARCHAR DEFAULT null)
+  LANGUAGE plpgsql AS
+$proc$
+BEGIN
+   SELECT name, city FROM Employees WHERE id = i
+   INTO name1, city1;                              
+END
+$proc$;
+
+
+
