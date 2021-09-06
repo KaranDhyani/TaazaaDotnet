@@ -1,0 +1,16 @@
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\bin\Debug\net5.0\LinqQuery.exe
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\bin\Debug\net5.0\LinqQuery.deps.json
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\bin\Debug\net5.0\LinqQuery.runtimeconfig.json
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\bin\Debug\net5.0\LinqQuery.runtimeconfig.dev.json
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\bin\Debug\net5.0\LinqQuery.dll
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\bin\Debug\net5.0\ref\LinqQuery.dll
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\bin\Debug\net5.0\LinqQuery.pdb
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\obj\Debug\net5.0\LinqQuery.csproj.AssemblyReference.cache
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\obj\Debug\net5.0\LinqQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\obj\Debug\net5.0\LinqQuery.AssemblyInfoInputs.cache
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\obj\Debug\net5.0\LinqQuery.AssemblyInfo.cs
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\obj\Debug\net5.0\LinqQuery.csproj.CoreCompileInputs.cache
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\obj\Debug\net5.0\LinqQuery.dll
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\obj\Debug\net5.0\ref\LinqQuery.dll
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\obj\Debug\net5.0\LinqQuery.pdb
+D:\TaazaaTrainingAssignment\Assignment 10\Linq Query\LinqQuery\obj\Debug\net5.0\LinqQuery.genruntimeconfig.cache

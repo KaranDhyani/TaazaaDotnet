@@ -1,0 +1,101 @@
+Day15
+______________________________________________________________________________________________________________________
+
+postgres=# create database day15p;
+CREATE DATABASE
+postgres=# \c day15p
+You are now connected to database "day15p" as user "postgres".
+day15p=# Create OR Replace Procedure karan()
+day15p-# AS $$
+day15p$# BEGIN
+day15p$# Raise Notice 'This is the displayed message from procedure.';
+day15p$# END;
+day15p$# $$
+day15p-# Language plpgsql;
+CREATE PROCEDURE
+day15p=# call karan();
+NOTICE:  This is the displayed message from procedure.
+CALL
+
+______________________________________________________________________________________________________________________
+
+day15p=# create table stud
+day15p-# (
+day15p(# ID integer primary key,
+day15p(# name varchar(20) not null
+day15p(# );
+CREATE TABLE
+day15p=# insert into stud values(101,'Karan');
+INSERT 0 1
+day15p=# insert into stud values(102,'Rahul');
+INSERT 0 1
+day15p=# select * from stud;
+ id  | name
+-----+-------
+ 101 | Karan
+ 102 | Rahul
+
+______________________________________________________________________________________________________________________
+
+day15p=# create OR Replace function countRec()
+day15p-# returns int
+day15p-# as
+day15p-# $$
+day15p$# declare
+day15p$# temp integer;
+day15p$# begin
+day15p$# temp = count(*) from stud;
+day15p$# return temp;
+day15p$# end;
+day15p$# $$
+day15p-# language plpgsql;
+CREATE FUNCTION
+day15p=# select countRec();
+ countrec
+----------
+        2
+(1 row)
+
+______________________________________________________________________________________________________________________
+
+day15p=# create or replace function info()
+day15p-# returns setof stud
+day15p-# as
+day15p-# $$
+day15p$# begin
+day15p$# return query select * from stud;
+day15p$# end;
+day15p$# $$
+day15p-# language plpgsql;
+CREATE FUNCTION
+day15p=# select * from info();
+ id  | name
+-----+-------
+ 101 | Karan
+ 102 | Rahul
+(2 rows)
+
+
+______________________________________________________________________________________________________________________
+
+day15p=# create or replace function find(ids integer)
+day15p-# returns varchar(50)
+day15p-# as
+day15p-# $$
+day15p$# declare
+day15p$# names varchar(50);
+day15p$# begin
+day15p$# names = name from stud where id = ids;
+day15p$# return names;
+day15p$# end;
+day15p$# $$
+day15p-# language plpgsql;
+CREATE FUNCTION
+day15p=# select find(102);
+ find
+-------
+ Rahul
+(1 row)
+
+______________________________________________________________________________________________________________________
+

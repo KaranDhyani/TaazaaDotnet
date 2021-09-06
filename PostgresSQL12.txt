@@ -1,0 +1,140 @@
+What are Joins?
+Whenever we want to get records from two or more tables, we will execute the joins commands.It is used 
+to merge columns from one or more tables according to the data of the standard columns between connected tables.
+
+Types of Joins : 
+- Inner Join : used to return only those records from the tables, which are equivalent to the defined condition 
+and hides other rows and columns. It is not necessary to use the word inner.
+
+Syntax:
+SELECT [column_list |*]  
+FROM table1  
+INNER JOIN table2  
+ON table1.column_name=table2.column.name;
+
+db3=# select Price
+db3-# from groceries
+db3-# Join Quantity
+db3-# ON groceries.ItemName = Quantity.ItemName;
+ price
+-------
+   150
+   300
+(2 rows)
+
+
+- Outer Join :
+1) Left Outer Join : used to return all rows from the left table and rows from the other table where the join
+condition is fulfilled defined in the ON condition. And if there are no corresponding records found from the 
+right table, it will return null. The Outer keyword is optional to write.
+
+Syntax:
+SELECT columns    
+FROM table1    
+LEFT [OUTER] JOIN table2    
+ON table1.column = table2.column;   
+
+
+2) Right Outer Join : used to return all rows from the right table, and rows from the other table where the
+join condition is fulfilled defined in the ON condition. And if there are no corresponding records found from 
+the Left table, it will return null values. The right keyword is optional.
+
+Syntax:
+SELECT columns    
+FROM table1    
+Right [OUTER] JOIN table2    
+ON table1.column = table2.column;
+
+
+- Cross Join : used to combine all possibilities of the multiple tables and returns the output, which contain 
+each row from all the selected tables. The CROSS JOIN, further known as CARTESIAN JOIN that allows us to produce 
+the Cartesian product of all related tables.
+
+Syntax:
+SELECT column-lists    
+FROM Table1    
+CROSS JOIN Table2;  
+
+
+- Self Join : used to set the different names of a similar table completely, and we can use the aliases also.To 
+proceed a self-join, we will define a similar table two times with different table aliases and give the Join predicate 
+after the ON keyword.
+
+Syntax:
+SELECT column_list  
+FROM table_name Table1  
+INNER JOIN table_name Table2 ON join_predicate;
+
+
+- Intersect : used to combine the result sets of two or more SELECT statements into a single result set.The INTERSECT 
+operator returns any rows that are available in both result sets.
+
+Syntax:
+SELECT select_list
+FROM A
+INTERSECT
+SELECT select_list
+FROM B;
+
+
+- Union : used to combine the result sets of two or more SELECT statements into a single result set.
+
+Syntax:
+SELECT select_list_1
+FROM table_expresssion_1
+UNION
+SELECT select_list_2
+FROM table_expression_2
+
+
+- Views : A view is a named query that provides another way to present data in the database tables. A 
+view is defined based on one or more tables which are known as base tables. When you create a view, 
+you basically create a query and assign a name to the query. Therefore, a view is useful for wrapping 
+a commonly used complex query. view is a logical table that represents data of one or more underlying 
+tables through a SELECT statement. Notice that a view does not store data physically except for a 
+materialized view. A View contains no data of its own but its like window through which data from tables 
+can be viewed or changed. The table on which a View is based are called BASE Tables.
+
+
+- Need of Views : 
+1.Structure data in a way that users or classes of users find natural or intuitive.
+2.Restrict access to the data such that a user can only see limited data instead of complete table.
+3.Summarize data from various tables, which can be used to generate reports.
+
+
+- Creating Views : Views are created using the CREATE VIEW statement. The PostgreSQL views can be created 
+from a single table, multiple tables, or another view.You can include multiple tables in your SELECT statement 
+in very similar way as you use them in normal PostgreSQL SELECT query. If the optional TEMP or TEMPORARY 
+keyword is present, the view will be created in the temporary space. Temporary views are automatically dropped 
+at the end of the current session. Replace word replaces current view if there exists a previous one.
+
+Syntax :
+CREATE OR REPLACE VIEW view_name AS
+SELECT column1, column2.....
+FROM table_name
+WHERE [condition];
+
+
+- Altering Views : To change the definition of a view, we use the ALTER VIEW command.
+
+Syntax :
+ALTER VIEW book_view2 RENAME TO book_info; 
+
+
+- Dropping Views : To delete a PostgreSQL view, we can use the DROP VIEW command.
+
+Syntax :
+DROP VIEW view_name;
+
+
+-Simple Views : Simple views are views which can only contain a single base table. That means
+the data the present is from one table only.
+
+
+-Complex Views :  Complex views can be constructed on more than one base table. In particular, 
+complex views can contain: join conditions, a group by clause, a order by clause.
+
+
+
+
+

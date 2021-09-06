@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TaazaaTrainingAssignment\\Assignment 10\\New folder\\LinqQuery\\LinqQuery.csproj",
+      "projectUniqueName": "D:\\TaazaaTrainingAssignment\\Assignment 10\\Linq Query\\LinqQuery\\LinqQuery.csproj",
       "projectName": "LinqQuery",
-      "projectPath": "D:\\TaazaaTrainingAssignment\\Assignment 10\\New folder\\LinqQuery\\LinqQuery.csproj",
+      "projectPath": "D:\\TaazaaTrainingAssignment\\Assignment 10\\Linq Query\\LinqQuery\\LinqQuery.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\TaazaaTrainingAssignment\\Assignment 10\\New folder\\LinqQuery\\obj\\",
+      "outputPath": "D:\\TaazaaTrainingAssignment\\Assignment 10\\Linq Query\\LinqQuery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

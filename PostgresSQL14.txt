@@ -1,0 +1,11 @@
+create function getAge()
+returns integer
+as $$
+	declare
+		age integer = 100;
+	begin
+		
+		return age;
+	end;
+$$ Language plpgsql;
+

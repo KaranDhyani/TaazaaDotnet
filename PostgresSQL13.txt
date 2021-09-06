@@ -1,0 +1,45 @@
+- How to decalare a variable in database?
+- Syntax : 
+do $$       
+declare
+   id    integer := 1;
+   name varchar(50) := 'John';
+   age  numeric(2) := 21;
+
+begin 
+   raise notice '% % %', 
+           id, 
+	   name, 
+	   age;
+end $$;
+____________________________________________________________________________
+
+- How to apply loop?
+  PostgreSQL provides the for loop statements to iterate over a range of 
+  integers or over a result set or over the result set of a dynamic query
+
+
+begin
+   for karan in 1..10 loop
+    raise notice 'Iteration number : %', karan;
+   end loop;
+
+_____________________________________________________________________________
+
+
+- How to apply break(exit)?
+
+begin
+for karan in 1..10 loop
+raise notice 'Iteration : %',karan;
+exit when karan>=5;
+end loop;
+
+_____________________________________________________________________________
+
+
+
+
+How to apply continue?
+How to apply switch?
+How to apply if-else?
